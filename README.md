@@ -1,2 +1,2 @@
 # rsschool-cv
-CV Markdown Crosscheck Submit
+[https://mickotec.github.io/rsschool-cv/cv](https://mickotec.github.io/rsschool-cv/cv)
