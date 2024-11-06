@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
 ## 7. Education
 
 - I am currently enrolled in The university of the People studying for Bachelor's degree in Computer science.
-- Enrolled in RS School for JS/FE Course EN 2023Q4
+- Enrolled in RS School for JS/FE Course EN 2024Q4
 - I am Cisco Certified Network Associate.
 
 ## 8. English Proficiency
