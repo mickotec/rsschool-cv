@@ -29,6 +29,7 @@ I am ready to dive into challenges head-on, contribute to collaborative projects
 - Git
   - Github
 - Vscode
+
 ## 5. Code Examples
 
 This is a _python_ code that calculates the factorial of a given number using a recursive function:
