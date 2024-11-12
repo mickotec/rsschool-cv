@@ -10,3 +10,8 @@ h2 {
 p {
   text-decoration: solid;
 }
+
+#header {
+  background-color: lightgray;
+  padding: 10px;
+}
