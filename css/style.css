@@ -68,9 +68,8 @@ span {
 }
 
 .contact__photo {
-  margin: auto;
-  width: 100%;
-  height: 100%;
+  width: 200px;
+  height: 200px;
 }
 
 .contact__info {
@@ -78,8 +77,6 @@ span {
   padding-left: 40px;
 }
 
-.contact__github {
-}
 .footer {
   display: block;
   background-color: #fa7f08;
