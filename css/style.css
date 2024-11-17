@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+:root {
+  --primary-color: #fa7f08;
+  --secondary-color: #348888;
+  --text-color: #fff;
+  --magenta: #e310cb;
+}
+.header {
+  display: block;
+  background-color: #fa7f08;
+
+  padding-left: 60px;
+  padding-right: 60px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.header__title {
+  font-family: "Inter", serif;
+  font-size: 2rem;
+  color: #fff;
+  margin: 0;
+
+  text-align: center;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  text-align: center;
+}
+
+.nav__list {
+  display: inline-block;
+  list-style: none;
+}
+
+.nav__list-item {
+  font-family: "Inter", serif;
+  display: inline;
+  margin-right: 36px;
+  font-size: 20px;
+  color: var(--text-color);
+}
+
+.main {
+  display: block;
+  align-items: center;
+  padding: 4rem 1rem;
+  padding-left: 60px;
+  padding-right: 60px;
+  max-width: 1200px;
+  margin: auto;
+  background-color: #348888;
+}
+
+span {
+  font-family: "Inter", serif;
+  color: var(--text-color);
+}
+
+.contact {
+  display: block;
+  grid-template-columns: 1fr 3fr;
+}
+
+.contact__photo {
+  width: 200px;
+  height: 200px;
+}
+
+.contact__info {
+  display: grid;
+
+  justify-content: left;
+}
+
+.footer {
+  display: block;
+  background-color: #fa7f08;
+  align-items: center;
+  padding: 4rem 1rem;
+  padding-left: 60px;
+  padding-right: 60px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.footer__list {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  padding-inline-start: 40px;
+  unicode-bidi: isolate;
+}
+
+.footer > p {
+  text-align-last: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+small {
+  font-family: "Inter", serif;
+  align-items: center;
+  color: black;
+}
+
+body {
+  padding: 0;
+  background-color: black;
+}
+
+h2 {
+  font-family: "Inter", serif;
+  color: black;
+}
+
+li {
+  font-family: "Inter", serif;
+  color: var(--text-color);
+}
+
+p {
+  font-family: "Inter", serif;
+  color: var(--text-color);
+}
